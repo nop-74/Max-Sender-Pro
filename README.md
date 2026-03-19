@@ -15,3 +15,7 @@ Max Sender Pro -Программа для рассылки в мессендже
 # 1.Поддержка win 7
 # 2.Поддержка win 10
 # Оплатить программу
+![Alt text](https://github.com/nop-74/Max-Sender-Pro/blob/main/pay.png)
+
+##  [после оплаты напишите мне](https://t.me/fradyrad)
+ 
