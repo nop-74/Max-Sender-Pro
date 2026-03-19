@@ -8,3 +8,6 @@ Max Sender Pro -Программа для рассылки в мессендже
 
 # Тонкие настройки рассылки,паузы и т.д
 ![Alt text](https://github.com/nop-74/Max-Sender-Pro/blob/main/2.png)
+ # Чекер номеров на наличие  Max
+![Alt text](https://github.com/nop-74/Max-Sender-Pro/blob/main/4.png)
+ 
