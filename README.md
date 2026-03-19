@@ -11,3 +11,6 @@ Max Sender Pro -Программа для рассылки в мессендже
  # Чекер номеров на наличие  Max
 ![Alt text](https://github.com/nop-74/Max-Sender-Pro/blob/main/4.png)
  
+в продаже есть две версии программы
+# 1.Поддержка win 7
+# 2.Поддержка win 10
